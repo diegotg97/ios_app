@@ -55,6 +55,7 @@ export class SelectuserPage implements OnInit {
         this.orderservice.newConsultData.guest = false
       }
 
+      this.orderservice.newConsultData.cupon = null;
       this.orderservice.genNewOrder().subscribe( () => {
         console.log('Escuchar Socket')
         this.socketListen()

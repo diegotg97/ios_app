@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "199960280208",
+    "firebase_url": "https://doctorhouse-e3515.firebaseio.com",
+    "project_id": "doctorhouse-e3515",
+    "storage_bucket": "doctorhouse-e3515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199960280208:android:6860b20b519de6480e2c15",
+        "android_client_info": {
+          "package_name": "com.example.tidudoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pltatHeFdVO8NqWP-dhUvdfCg4iudcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199960280208:android:a36b02b5ba2af1b90e2c15",
+        "android_client_info": {
+          "package_name": "com.vasster.doctorhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pltatHeFdVO8NqWP-dhUvdfCg4iudcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199960280208:android:ee9c348b2610196b0e2c15",
+        "android_client_info": {
+          "package_name": "com.vasster.tidux.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pltatHeFdVO8NqWP-dhUvdfCg4iudcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199960280208:android:0df4ab48ade1fd5b0e2c15",
+        "android_client_info": {
+          "package_name": "tidux.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2pltatHeFdVO8NqWP-dhUvdfCg4iudcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199960280208-1mcp8jq7gje1ht9sbghgdkliuj6u4bdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
